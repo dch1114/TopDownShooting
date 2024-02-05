@@ -20,5 +20,5 @@ Unity을 이용하여 2D게임을 만들 수 있다.
 24.01.18(목) ~ 24.01.23(화)
 
 ## 개발 환경
-Unity Editor Version 2022.3.2f1
+Unity Editor Version 2022.3.2f1   
 IDE: Visual Studio 2022
