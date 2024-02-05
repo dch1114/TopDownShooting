@@ -22,3 +22,16 @@ Unity을 이용하여 2D게임을 만들 수 있다.
 ## 개발 환경
 Unity Editor Version 2022.3.2f1   
 IDE: Visual Studio 2022
+
+## 게임 플레이
+---
+#### 몬스터 생성 / 물약 생성 / 파티클 생성
+<img src = "https://github.com/dch1114/TopDownShooting/assets/129824716/5760a26a-0d4d-4e1b-8a0e-ea5081120813" width="400" height="300"/>
+
+---
+#### 몬스터 공격 / 맞으면 피 깍임
+<img src = "https://github.com/dch1114/TopDownShooting/assets/129824716/2e68086d-f170-41e5-bea3-a833f185e745" width="400" height="300"/>
+
+---
+#### 죽으면 게임 오버
+<img src = "https://github.com/dch1114/TopDownShooting/assets/129824716/7369bc24-9f20-4dd5-8fe4-384b80f419ef" width="400" height="300"/>
