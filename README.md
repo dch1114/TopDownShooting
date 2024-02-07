@@ -24,7 +24,7 @@ Unity Editor Version 2022.3.2f1
 IDE: Visual Studio 2022
 
 ## 게임 플레이
----
+
 #### 몬스터 생성 / 물약 생성 / 파티클 생성
 <img src = "https://github.com/dch1114/TopDownShooting/assets/129824716/5760a26a-0d4d-4e1b-8a0e-ea5081120813" width="400" height="300"/>
 
